@@ -104,11 +104,11 @@ I built this repo as a learning journal and reference base to:
 Whether you're just starting out or revising ML concepts, this repo can help you think in models, not just code.
 
 ## 🔗 Connect With Me
-💻 [GitHub]("https://github.com/akshat09105")
+💻 [GitHub](https://github.com/akshat09105)
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/akshat-gupta-6a27a331a/)
 
-🧠 Kaggle
+🧠 [Kaggle](https://www.kaggle.com/akshat9105)
 
 ## 🙌 Final Thoughts
 Machine Learning is not just about models — it's about understanding the why, how, and where to use them.
